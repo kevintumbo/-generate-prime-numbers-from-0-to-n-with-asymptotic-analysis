@@ -1,0 +1,3 @@
+since the algorithm performs g(N) steps for each f(N) steps,
+	O(N x N) = O(N^2)
+making this an algorithm with quadratic big O notation
